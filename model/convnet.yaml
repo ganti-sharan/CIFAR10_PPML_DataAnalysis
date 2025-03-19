@@ -1,0 +1,6 @@
+name: "ConvNet"
+params:
+  depth: 4
+  width_multiplier: 3
+  num_groups: 16
+  
